@@ -1,2 +1,2 @@
 # Rekog-app
-Simple web app that uses AWS Rekognition Service
+Simple Express (Node.js) web app that uses AWS Rekognition Service
